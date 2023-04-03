@@ -17,7 +17,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.dynamic.cow</string>
+				<string>net.kdt.pojavlauncher</string>
 				<key>bundle-version</key>
 				<string>2.2</string>
 				<key>kind</key>
