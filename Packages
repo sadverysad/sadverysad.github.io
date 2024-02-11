@@ -1,0 +1,13 @@
+Package: com.sadverysad.sdfix14t
+Priority: optional
+Section: Tweak
+Maintainer: sadverysad <sadverysad69@gmail.com>
+Author: sadverysad <sadverysad69@gmail.com>
+Filename: debs/com.sadverysad.sdfix14t_0.0.1-2_iphoneos-arm.deb
+Architecture: iphoneos-arm
+Version: 0.0.1-2
+Pre-Depends: ldid, com.julioverne.screendump13
+Description: Simple screendump fix script for iOS 14 taurine
+Name: screendumpfix14-Taurine
+Homepage: http://sadverysad.github.io/pages/sdfix14t.html
+Depiction: http://sadverysad.github.io/pages/sdfix14t.html
