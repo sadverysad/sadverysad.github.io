@@ -1,7 +1,7 @@
-Package: ru.sadverysad.screendump14
+Package: ru.sadverysad.screendump14t
 Depends: mobilesubstrate, preferenceloader
 Conflicts: com.cosmosgenius.screendump, com.julioverne.screendump13
-Filename: ./debs/ru.sadverysad.screendump14
+Filename: ./debs/ru.sadverysad.screendump14t_0.0.1_iphoneos-arm.deb
 Architecture: iphoneos-arm
 Description: VNC for ios
 Maintainer: sadverysad <sadverysad69@gmail.com>
@@ -10,6 +10,6 @@ Section: Tweaks
 Version: 0.0.1
 Icon: http://sadverysad.github.io/img/ScreenDump@2x.png
 Description: Screendump fix for iOS 14 taurine
-Homepage: http://sadverysad.github.io/pages/sdfix14t.html
-Depiction: http://sadverysad.github.io/pages/sdfix14t.html
+Homepage: https://sadverysad.github.io/pages/screendump14.html
+Depiction: https://sadverysad.github.io/pages/screendump14.html
 Name: screendump (iOS 14)
