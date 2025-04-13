@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://uc5305aef742bead4d95b0e8f373.dl.dropboxusercontent.com/cd/0/get/CnuBxEFYM38nWEOzrkQk-sJ_qeFQ84zytFzreeAQuEcJth0L4C9SEJ4SjCq528fteyKA8SilXDYWy7kfsHiZyFYBzZ9pBtLZrMiaG2tYYNQCLMShpqH1GfRMNGo6ZRV89zdfu6gLvwO14a7py1a0hhyYQ7pbTWB1E75uNA7P0EEmZQ/file?_download_id=68928703814420732607567735985426634618401632322999104513785718718&_log_download_success=1&_notify_domain=www.dropbox.com&dl=1</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.bdgt.online</string>
+				<key>bundle-version</key>
+				<string>6.0</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>title</key>
+				<string>familyBudget</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
